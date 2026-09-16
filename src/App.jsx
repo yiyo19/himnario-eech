@@ -61,7 +61,6 @@ export default function App() {
               >
                 <span className="nav-card-icon" aria-hidden="true">{item === 'Todos' ? '✦' : item === 'Agrupaciones' ? '♬' : '♪'}</span>
                 <span className="nav-card-label">{item}</span>
-                <span className="nav-card-arrow" aria-hidden="true">↗</span>
               </button>
             ))}
           </div>
@@ -222,7 +221,7 @@ export default function App() {
           </article>
         )}
       </main>
-      <footer className="site-footer">EECH Pueblo Nuevo · Cantemos con alegría</footer>
+      <footer className="site-footer">EECH Pueblo Nuevo · Felix Eicher 480 </footer>
     </div>
   );
 }
