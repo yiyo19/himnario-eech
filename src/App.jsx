@@ -41,6 +41,28 @@ export default function App() {
         <p className="eyebrow">Iglesia EECH · Pueblo Nuevo</p>
         <h1>Himnario Digital</h1>
         <p className="header-caption">Una colección para cantar y adorar juntos</p>
+        <nav className="social-links" aria-label="Redes sociales de la iglesia">
+          <a
+            href="https://www.instagram.com/ieech_laja?stkn=MWNmcDNwaHJlODBxNQ=="
+            target="_blank"
+            rel="noreferrer"
+            className="social-link instagram-link"
+            aria-label="Visitar Instagram de la iglesia"
+          >
+            <span className="social-icon" aria-hidden="true">◎</span>
+            <span>Instagram</span>
+          </a>
+          <a
+            href="https://www.facebook.com/share/1CSEiyT2Gv/?mibextid=wwXIfr"
+            target="_blank"
+            rel="noreferrer"
+            className="social-link facebook-link"
+            aria-label="Visitar Facebook de la iglesia"
+          >
+            <span className="social-icon facebook-icon" aria-hidden="true">f</span>
+            <span>Facebook</span>
+          </a>
+        </nav>
       </header>
 
       <main className="content-area">

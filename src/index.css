@@ -20,6 +20,12 @@ button { cursor: pointer; }
 .eyebrow, .section-kicker { margin: 0; color: var(--accent); font-size: .68rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
 .site-header h1 { position: relative; margin: 4px 0 5px; font-family: Manrope, sans-serif; font-size: clamp(1.45rem, 5vw, 2rem); letter-spacing: -.04em; }
 .header-caption { position: relative; margin: 0; color: #a9b7c8; font-size: .85rem; }
+.social-links { position: relative; display: flex; justify-content: center; gap: 8px; margin-top: 19px; }
+.social-link { display: inline-flex; align-items: center; gap: 7px; padding: 8px 12px; border: 1px solid rgba(255,255,255,.16); border-radius: 999px; color: #f4f7fb; background: rgba(255,255,255,.08); font-size: .72rem; font-weight: 700; text-decoration: none; transition: transform .2s, border-color .2s, background .2s; }
+.social-link:hover { transform: translateY(-2px); border-color: rgba(255,255,255,.42); background: rgba(255,255,255,.15); }
+.social-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.social-icon { display: grid; place-items: center; width: 19px; height: 19px; border-radius: 6px; color: #fff; background: linear-gradient(135deg, #f9ce34, #ee2a7b 52%, #6228d7); font-size: 1rem; line-height: 1; }
+.facebook-link .social-icon { border-radius: 50%; background: #1877f2; font-family: Arial, sans-serif; font-size: 1rem; font-weight: 800; }
 .theme-toggle { position: absolute; z-index: 1; right: 18px; top: 18px; display: flex; align-items: center; gap: 6px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--accent); background: rgba(15, 26, 43, .75); font-size: .7rem; font-weight: 700; }
 .content-area { padding: 30px 20px 42px; }
 .view-stack { display: grid; gap: 12px; }
