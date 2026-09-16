@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cuan Grande es Él",
+    "categoria": "Himnos",
+    "letra": "Señor, mi Dios, al contemplar los cielos,\nEl firmamento y las estrellas mil,\nAl oír Tu voz en los potentes truenos\nY ver brillar el sol en su cenit,\n\nCoro\nMi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!\n\nVerso 2\nAl recorrer los montes y los valles\nY ver las bellas flores al pasar,\nAl escuchar el canto de las aves\nY el murmurar del claro manantial,\n\nCoro\nMi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!\n\nVerso 3\nCuando recuerdo del amor divino\nQue desde el cielo al Salvador envió,\nAquel Jesús que por salvarme vino\nY en una cruz sufrió por mí y murió,\n\nCoro\nMi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!\n\nVerso 4\nCuando el Señor me llame a Su presencia,\nAl dulce hogar al cielo de esplendor;\nLe adoraré cantando la grandeza\nDe Su poder y Su infinito amor.\n\nCoro\nMi corazón entona esta canción,\n¡Cuán grande es Él!\n¡Cuán grande es Él!\nMi corazón entona esta canción,\n¡Cuán grande es Él! ¡Cuán grande es Él!"
+  },
+  {
+    "id": 2,
+    "titulo": "Roca de la Eternidad",
+    "categoria": "Alabanzas",
+    "letra": "Roca de la eternidad..."
+  },
+  {
+    "id": 3,
+    "titulo": "Gozo en mi Alma",
+    "categoria": "Coros",
+    "letra": "Tengo gozo en mi alma..."
+  },
+  {
+    "id": 4,
+    "titulo": "Marchando en Victoria",
+    "categoria": "Coro Juventud",
+    "letra": "Juventud marchemos hacia la meta..."
+  },
+  {
+    "id": 5,
+    "titulo": "Ruedan las Ruedas",
+    "categoria": "Grupo Ciclista",
+    "letra": "Anunciando el evangelio en la vía..."
+  },
+  {
+    "id": 6,
+    "titulo": "Dios es Amor",
+    "categoria": "Coro Infantil",
+    "letra": "Dios es amor, la Biblia lo dice..."
+  },
+  {
+    "id": 7,
+    "titulo": "Mujer Virtuosa",
+    "categoria": "Clase Dorcas",
+    "letra": "Trabajando con fe y devoción..."
+  }
+]
