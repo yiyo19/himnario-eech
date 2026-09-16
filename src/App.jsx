@@ -49,7 +49,12 @@ export default function App() {
             className="social-link instagram-link"
             aria-label="Visitar Instagram de la iglesia"
           >
-            <span className="social-icon" aria-hidden="true">◎</span>
+            <img
+              src="/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand%20(1).png"
+              alt=""
+              className="social-icon"
+              aria-hidden="true"
+            />
             <span>Instagram</span>
           </a>
           <a
@@ -59,7 +64,12 @@ export default function App() {
             className="social-link facebook-link"
             aria-label="Visitar Facebook de la iglesia"
           >
-            <span className="social-icon facebook-icon" aria-hidden="true">f</span>
+            <img
+              src="/Facebook_Logo_2023.png"
+              alt=""
+              className="social-icon facebook-icon"
+              aria-hidden="true"
+            />
             <span>Facebook</span>
           </a>
         </nav>
